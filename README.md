@@ -33,8 +33,8 @@ Replace "YOUR_API_KEY" with your actual API key.
 Replace "YOUR_API_KEY" with your actual API key.
 
 Usage
-1.Run the Streamlit app by executing the following command:
 
+1.Run the Streamlit app by executing the following command:
 ```python
 #app.py
 streamlit run app.py
